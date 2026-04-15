@@ -71,7 +71,7 @@
 
 ### Currently Learning
 
-- Deepening knowledge in **AI agents** architecture and orchestration
+- Deepening knowledge in **Mathematics** — linear algebra, calculus and statistics applied to AI
+- Building skills in **Data Analysis** with **Pandas**, **NumPy** and **Matplotlib**
 - Exploring **LangChain** and **LangGraph** for multi-step reasoning pipelines
-- Studying **multimodal AI** — combining text, vision and structured data
 - Strengthening foundations in **algorithms and data structures** (UFG coursework)
