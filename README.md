@@ -69,9 +69,9 @@
 
 ---
 
-### GitHub Stats
+### Currently Learning
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacoit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacoit&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- Deepening knowledge in **AI agents** architecture and orchestration
+- Exploring **LangChain** and **LangGraph** for multi-step reasoning pipelines
+- Studying **multimodal AI** — combining text, vision and structured data
+- Strengthening foundations in **algorithms and data structures** (UFG coursework)
