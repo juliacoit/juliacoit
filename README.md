@@ -61,7 +61,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [RAG-ANEEL-CEIA](https://github.com/juliacoit/RAG-ANEEL-CEIA) | RAG pipeline for querying Brazilian energy regulatory documents (ANEEL/MME) | Python, LLMs, NLP |
+| [RAG-ANEEL-CEIA](https://github.com/juliacoit/RAG-ANEEL-CEIA) | RAG pipeline for querying Brazilian energy regulatory documents (ANEEL/MME) | Python, LLMs, NLP, RAG |
 | [nips-agent](https://github.com/juliacoit/nips_agents) | Multiagent system with Human-in-the-Loop for responding to ANS regulatory notifications (NIPs) using LangGraph and RAG | Python, LangGraph, Gemini, RAG |
 | [Local-Gradio-App-for-RAG](https://github.com/juliacoit/Local-Gradio-App-for-RAG) | Gradio interface using SLMs/LLMs to extract data from PDFs and generate educational questions | Python, Gradio, RAG |
 | [Sales-analysis-BR](https://github.com/juliacoit/Sales-analysis-BR) | E-commerce data analysis using the Olist dataset to generate business insights | Python, Power BI |
