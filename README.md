@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Júlia Coité 👩‍💻</h1>
 
 <p align="center">
-  Computer Science student at UFG · AI Engineer @ ICMBio/RAN · Informatics Technician (IFBA) · AI & NLP enthusiast
+  Computer Science student at UFG · AI Researcher @ ICMBio/RAN · Informatics Technician (IFBA) · AI & NLP enthusiast
 </p>
 
 <p align="center">
