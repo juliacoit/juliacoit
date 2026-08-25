@@ -24,7 +24,7 @@
 ### About me
 
 - 🎓 Studying **Computer Science** at Universidade Federal de Goiás (UFG)
-- 🐍 **AI Engineer** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
+- 🐍 **AI Researcher** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
 - 🤖 Member of the **NLP Study Group at CEIA/UFG** — working with LLMs, RAG pipelines and language models applied to real-world data
 - 🧠 Interested in **Artificial Intelligence**, **Natural Language Processing** and **Data Science**
 - 🌱 Currently deepening my knowledge in **AI agents**, **LangChain** and **multimodal AI pipelines**
