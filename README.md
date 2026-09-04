@@ -65,7 +65,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Herpetofauna RAG Chatbot (RAN/ICMBio)](https://github.com/juliacoit/chatbot-ran-icmbio) | Internal intelligent chatbot using Retrieval-Augmented Generation to help ICMBio/RAN staff access technical, scientific, and institutional information on Brazilian reptiles and amphibians | Python, LangChain/LlamaIndex, Qdrant, FastAPI, Streamlit, PostgreSQL, PyMuPDF, Tesseract OCR, Docker |
+| [HerpIA RAG Chatbot (RAN/ICMBio)](https://github.com/juliacoit/chatbot-ran-icmbio) | Internal intelligent chatbot using Retrieval-Augmented Generation to help ICMBio/RAN staff access technical, scientific, and institutional information on Brazilian reptiles and amphibians | Python, LangChain/LlamaIndex, Qdrant, FastAPI, Streamlit, PostgreSQL, PyMuPDF, Tesseract OCR, Docker |
 | [RAG-ANEEL-CEIA](https://github.com/juliacoit/RAG-ANEEL-CEIA) | RAG pipeline for querying Brazilian energy regulatory documents (ANEEL/MME) | Python, LLMs, NLP, RAG |
 | [nips-agent](https://github.com/juliacoit/nips_agents) | Multiagent system with Human-in-the-Loop for responding to ANS regulatory notifications (NIPs) using LangGraph and RAG | Python, LangGraph, Gemini, RAG |
 | [Local-Gradio-App-for-RAG](https://github.com/juliacoit/Local-Gradio-App-for-RAG) | Gradio interface using SLMs/LLMs to extract data from PDFs and generate educational questions | Python, Gradio, RAG |
