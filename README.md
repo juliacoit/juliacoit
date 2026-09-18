@@ -25,7 +25,7 @@
 
 - 🎓 Studying **Computer Science** at Universidade Federal de Goiás (UFG)
 - 🐍 **AI Researcher** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
-- 🤖 Member of **PDC 2026/2027** at **CEIA** (Centro de Excelência em Inteligência Artificial), in partnership with **EMBRAPII** — working on **trustworthy multi-agent systems and Small Language Models** in open computational architectures, and taking part in the **Agents** and **Advanced NLP** study groups
+- 🤖 Selected for the **PDC 2026/2027** at **CEIA** (Centro de Excelência em Inteligência Artificial), in partnership with **EMBRAPII** — working on **trustworthy multi-agent systems and Small Language Models** in open computational architectures, and taking part in the **Agents** and **Advanced NLP** study groups
 - 🏆 **3rd place** at the **AKCIT Camp** intelligent agents hackathon
 - 📝 Undergraduate thesis (TCC) on **RAG applied to technical and vocational education**
 - 🧠 Interested in **Artificial Intelligence**, **Natural Language Processing** and **Data Science**
@@ -35,43 +35,59 @@
 
 ### Tech Stack
 
-**Languages**
+**Core**
 
 <div>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
 
-<br>
-
-**AI / ML & Tools**
+**LLMs, RAG & Agents**
 
 <div>
-  <img align="center" alt="LangChain" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-</div>
-
-<br>
-
-**Frameworks & Vector DBs**
-
-<div>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square">
   <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white">
   <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square">
+  <img alt="RAGAS" src="https://img.shields.io/badge/RAGAS-555555?style=flat-square">
+</div>
+
+**Backend & Interfaces**
+
+<div>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   <img alt="Gradio" src="https://img.shields.io/badge/Gradio-F97316?style=flat-square">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</div>
+
+**Document Processing**
+
+<div>
+  <img alt="PyMuPDF" src="https://img.shields.io/badge/PyMuPDF-555555?style=flat-square">
+  <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract%20OCR-555555?style=flat-square">
+</div>
+
+**Data Analysis**
+
+<div>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white">
+</div>
+
+**Tools & Other Languages**
+
+<div>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </div>
 
 ---
