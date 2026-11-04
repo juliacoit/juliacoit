@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Júlia Coité 👩‍💻</h1>
 
 <p align="center">
-  Computer Science student at UFG · AI Researcher @ ICMBio/RAN · PDC @ CEIA · Informatics Technician (IFBA) · AI & NLP enthusiast
+  Computer Science student at UFG · AI Intern @ RAN/ICMBio · PDC @ CEIA · Informatics Technician (IFBA) · AI & NLP enthusiast
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 ### About me
 
 - 🎓 Studying **Computer Science** at Universidade Federal de Goiás (UFG)
-- 🐍 **AI Researcher** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
+- 🐍 **AI Intern** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
 - 🤖 Member of **PDC 2026/2027** at **CEIA** (Centro de Excelência em Inteligência Artificial), in partnership with **EMBRAPII** — working on **trustworthy multi-agent systems and Small Language Models** in open computational architectures, and taking part in the **Agents** and **Advanced NLP** study groups
 - 🏆 **3rd place** at the **AKCIT Camp** intelligent agents hackathon
-- 📝 Undergraduate thesis (TCC) on **RAG applied to technical and vocational education**
+- 📝 Final project (TCC) of the IFBA Informatics Technician course on **RAG applied to technical and vocational education**
 - 🧠 Interested in **Artificial Intelligence**, **Natural Language Processing** and **Data Science**
 - 📍 Based in Brazil
 
@@ -96,9 +96,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [RAG-ANEEL-CEIA](https://github.com/juliacoit/RAG-ANEEL-CEIA) | Hybrid-search RAG (semantic + BM25 with reranking) over **562k chunks from 25k ANEEL regulatory acts**, with source citations, automatic fallback across 3 LLMs, a FastAPI API and RAGAS evaluation | Python, Qdrant, BM25, Sentence-Transformers, Qwen3 / Llama 3.3, FastAPI, Streamlit, RAGAS |
 | [HerpIA RAG Chatbot (RAN/ICMBio)](https://github.com/juliacoit/HerpIA-chatbot) | Internal intelligent chatbot using Retrieval-Augmented Generation to help ICMBio/RAN staff access technical, scientific, and institutional information on Brazilian reptiles and amphibians | Python, LangChain/LlamaIndex, Qdrant, FastAPI, Streamlit, PostgreSQL, PyMuPDF, Tesseract OCR, Docker |
 | [nips-agent](https://github.com/juliacoit/nips_agents) | Multiagent system with Human-in-the-Loop for responding to ANS regulatory notifications (NIPs) using LangGraph and RAG | Python, LangGraph, Gemini, RAG |
-| [RAG-ANEEL-CEIA](https://github.com/juliacoit/RAG-ANEEL-CEIA) | RAG pipeline for querying Brazilian energy regulatory documents (ANEEL/MME) | Python, LLMs, NLP, RAG |
 | [AKCIT Camp 2025](https://github.com/juliacoit/akcit-camp-2025) | 🏆 3rd place — intelligent agents hackathon project | Python, LLM agents |
 | [Local-Gradio-App-for-RAG](https://github.com/juliacoit/Local-Gradio-App-for-RAG) | Gradio interface using SLMs/LLMs to extract data from PDFs and generate educational questions | Python, Gradio, RAG |
 | [Sales-analysis-BR](https://github.com/juliacoit/Sales-analysis-BR) | E-commerce data analysis using the Olist dataset to generate business insights | Python, Power BI |
