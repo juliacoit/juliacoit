@@ -25,7 +25,7 @@
 
 - 🎓 Studying **Computer Science** at Universidade Federal de Goiás (UFG)
 - 🐍 **AI Intern** at **RAN/ICMBio** (Centro Nacional de Pesquisa e Conservação de Répteis e Anfíbios, Instituto Chico Mendes de Conservação da Biodiversidade) — developing an internal **RAG-based intelligent chatbot** to help staff access technical, scientific, and institutional information about Brazilian herpetofauna
-- 🤖 Member of **PDC 2026/2027** at **CEIA** (Centro de Excelência em Inteligência Artificial), in partnership with **EMBRAPII** — working on **trustworthy multi-agent systems and Small Language Models** in open computational architectures, and taking part in the **Agents** and **Advanced NLP** study groups
+- 🤖 Member of **PDC 2026/2027** at **CEIA** (Centro de Excelência em Inteligência Artificial) — working on **trustworthy multi-agent systems and Small Language Models** in open computational architectures, and taking part in the **Agents** and **Advanced NLP** study groups
 - 🏆 **3rd place** at the **AKCIT Camp** intelligent agents hackathon
 - 📝 Final project (TCC) of the IFBA Informatics Technician course on **RAG applied to technical and vocational education**
 - 🧠 Interested in **Artificial Intelligence**, **Natural Language Processing** and **Data Science**
